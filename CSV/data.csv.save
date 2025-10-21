@@ -1,0 +1,7 @@
+line,type,length_km,stops
+1,tram,10,15
+2,bus,8,12
+3,tram,6,10
+4,bus,9,13
+5,tram,7,11
+
