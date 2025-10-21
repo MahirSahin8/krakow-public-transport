@@ -37,12 +37,17 @@ deliver the repository link, the last commit ID, and a ZIP archive.
 | 3 | tram | 6  | 10 |
 
 ## IMAGES
-**Tram (online)**  
-![Tram](https://upload.wikimedia.org/wikipedia/commons/8/8a/Krak%C3%B3w_tram_line_50.jpg)
 
-**Bus (online)**  
-![Bus](https://upload.wikimedia.org/wikipedia/commons/1/19/Krak%C3%B3w_bus_501.jpg)
+**Tram**
 
-**Local image**  
-![Local](IMG/krakow-transport.jpg)
+![Tram](./IMG/tram.jpeg)
+
+**Bus**
+
+![Bus](./IMG/bus.jpeg)
+
+**Local image**
+
+![Local](./IMG/local.jpeg)
+
 
