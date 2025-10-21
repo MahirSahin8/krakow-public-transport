@@ -1,0 +1,15 @@
+[
+  { "line": 1, "mode": "tram", "length_km": 10, "stops": 15, "active": true 
+},
+  { "line": 2, "mode": "bus",  "length_km": 8,  "stops": 12, "active": false 
+},
+  { "line": 3, "mode": "tram", "length_km": 6,  "stops": 10, "active": true 
+},
+  { "line": 4, "mode": "bus",  "length_km": 9,  "stops": 13, "active": true 
+},
+  { "line": 5, "mode": "tram", "length_km": 7,  "stops": 11, "active": true 
+},
+  { "line": 6, "mode": "bus",  "length_km": 5,  "stops": 8,  "active": false 
+}
+]
+
