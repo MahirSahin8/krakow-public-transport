@@ -1,0 +1,15 @@
+<transports>
+    <line>
+        <id>1</id>
+        <type>tram</type>
+        <stops>15</stops>
+        <length>10</length>
+    </line>
+    <line>
+        <id>2</id>
+        <type>bus</type>
+        <stops>12</stops>
+        <length>8</length>
+    </line>
+</transports>
+

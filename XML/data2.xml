@@ -1,0 +1,5 @@
+<transports>
+    <line id="1" express="false" type="tram" stops="15" length="10"/>
+    <line id="2" express="true" type="bus" stops="12" length="8"/>
+</transports>
+
