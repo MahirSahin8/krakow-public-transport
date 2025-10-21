@@ -40,11 +40,13 @@ Example data used in this project:
 ---
 
 ## IMAGES
-![Tram in 
-Krakow](https://upload.wikimedia.org/wikipedia/commons/8/8a/Krak%C3%B3w_tram_line_50.jpg)  
-![Bus in 
-Krakow](https://upload.wikimedia.org/wikipedia/commons/1/19/Krak%C3%B3w_bus_501.jpg)
 
-Local image:  
-![Local Image](IMG/krakow-transport.jpg)
+### Tram
+![Tram](IMG/tram.jpeg)
+
+### Bus
+![Bus](IMG/bus.jpeg)
+
+### Local Image
+![Local](IMG/local.jpeg)
 
