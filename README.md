@@ -3,9 +3,9 @@
 ## TEAM
 1. Mahir Şahin – GitHub: [MahirSahin8](https://github.com/MahirSahin8) – 
 Tasks: 1, 6  
-2. Aykut Akanli – GitHub: 
+2. Aykut [soyad] – GitHub: 
 [aykut_username](https://github.com/aykut_username) – Tasks: 2, 3  
-3. Charaf Toumi – GitHub: 
+3. Charaf [soyad] – GitHub: 
 [charaf_username](https://github.com/charaf_username) – Tasks: 4, 5  
 
 ---
@@ -40,13 +40,11 @@ Example data used in this project:
 ---
 
 ## IMAGES
+![Tram in 
+Krakow](https://upload.wikimedia.org/wikipedia/commons/8/8a/Krak%C3%B3w_tram_line_50.jpg)  
+![Bus in 
+Krakow](https://upload.wikimedia.org/wikipedia/commons/1/19/Krak%C3%B3w_bus_501.jpg)
 
-### Tram
-![Tram](IMG/tram.jpeg)
-
-### Bus
-![Bus](IMG/bus.jpeg)
-
-### Local Image
-![Local](IMG/local.jpeg)
+Local image:  
+![Local Image](IMG/krakow-transport.jpg)
 
