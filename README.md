@@ -4,7 +4,7 @@
 1. Mahir Şahin – GitHub: [MahirSahin8](https://github.com/MahirSahin8) – 
 Tasks: 1, 6  
 2. Aykut Akanli – GitHub: 
-[aykut_username](https://github.com/aykut_username) – Tasks: 2, 3  
+[aykut_username]([https://github.com/aykut_username](https://github.com/aykut981)) – Tasks: 2, 3  
 3. Charaf Toumi – GitHub: 
 [charaf_username](https://github.com/charaf_username) – Tasks: 4, 5  
 
