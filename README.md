@@ -34,10 +34,10 @@ This section presents sample lines used only for demonstration. Each row shows t
 ### IMAGES
 
 **Tram (from web)**  
-![Tram](https://en.wikipedia.org/wiki/Tram#/media/File:Muzeum_MHD,_tramvaje_T3_8084_a_6149,_zepředu.jpg)
+![Tram](https://upload.wikimedia.org/wikipedia/commons/6/60/Muzeum_MHD%2C_tramvaje_T3_8084_a_6149%2C_zepředu.jpg)
 
 **Bus (from web)**  
-![Bus](https://en.wikipedia.org/wiki/Bus#/media/File:(SGP-Singapore)_SBS_Transit_SG3042Y_298_2024-12-23.jpg)
+![Bus](https://upload.wikimedia.org/wikipedia/commons/8/84/LTZ1328-19-20241030-160332.jpg)
 
 **Local image (from repository)**  
 ![Local night bus](IMG/local.jpeg)
