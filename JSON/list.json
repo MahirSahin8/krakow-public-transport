@@ -1,0 +1,8 @@
+[
+  { "id": 1, "type": "tram", "stops": 15, "length_km": 10, "express": false },
+  { "id": 2, "type": "bus", "stops": 12, "length_km": 8, "express": true },
+  { "id": 3, "type": "tram", "stops": 14, "length_km": 9, "express": false },
+  { "id": 4, "type": "bus", "stops": 10, "length_km": 7, "express": true },
+  { "id": 5, "type": "tram", "stops": 16, "length_km": 11, "express": false },
+  { "id": 6, "type": "bus", "stops": 9, "length_km": 6, "express": true }
+]
