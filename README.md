@@ -20,13 +20,14 @@ Looking ahead, Krakow plans to extend several tram lines, introduce more electri
 ---
 
 ## DATA
-Example data used in this project:  
+This section presents sample lines used only for demonstration. Each row shows the line id, vehicle type, total route length in kilometers, and the number of served stops.
 
 | line | type | length_km | stops |
-|------|------|------------|-------|
+|-----:|:-----|----------:|------:|
 | 1 | tram | 10 | 15 |
-| 2 | bus | 8 | 12 |
-| 3 | tram | 6 | 10 |
+| 2 | bus  |  8 | 12 |
+| 3 | tram |  6 | 10 |
+
 
 ---
 
