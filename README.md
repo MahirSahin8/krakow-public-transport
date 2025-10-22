@@ -31,17 +31,15 @@ This section presents sample lines used only for demonstration. Each row shows t
 
 ---
 
-## IMAGES
+### IMAGES
 
-**Tram**
+**Tram (from web)**  
+![Tram](https://en.wikipedia.org/wiki/Tram#/media/File:Muzeum_MHD,_tramvaje_T3_8084_a_6149,_zepředu.jpg)
 
-![Tram](./IMG/tram.jpeg)
+**Bus (from web)**  
+![Bus](https://en.wikipedia.org/wiki/Bus#/media/File:(SGP-Singapore)_SBS_Transit_SG3042Y_298_2024-12-23.jpg)
 
-**Bus**
+**Local image (from repository)**  
+![Local night bus](IMG/local.jpeg)
 
-![Bus](./IMG/bus.jpeg)
-
-**Local image**
-
-![Local](./IMG/local.jpeg)
 
