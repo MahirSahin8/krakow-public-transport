@@ -10,20 +10,12 @@ Tasks: 1, 6
 ---
 
 ## INTRODUCTION
-Krakow has one of the most developed public transport systems in Poland.  
-It combines trams and buses operated by ZTP Krakow, allowing passengers to 
-travel efficiently around the city.  
-Tickets can be purchased via vending machines, mobile apps, or directly from 
-drivers.  
+Krakow’s public transport network combines extensive tram lines and a dense bus system coordinated by ZTP Krakow. Tickets are available through vending machines, mobile apps, and drivers, with convenient student discounts and time-based options that support fast transfers. High service frequency on core corridors reduces waiting, and real-time arrival boards help riders plan efficiently even during peak hours or bad weather.
 
-The tram network is known for being punctual and environmentally friendly, 
-as many lines run on renewable electricity.  
-Buses complement the trams by connecting outer districts and nearby suburbs.  
-The system supports both day and night services, ensuring reliable movement 
-at all hours.  
+The tram network is particularly valued for punctuality and lower emissions, as many routes operate with modern rolling stock powered by renewable electricity. Buses complement trams by reaching outer districts and suburban neighborhoods where tracks are not available. Night lines maintain essential connectivity after midnight, ensuring that workers and students can travel safely across the city when regular services pause.
 
-Overall, Krakow's transport system is affordable, modern, and crucial for 
-students, tourists, and workers.
+Looking ahead, Krakow plans to extend several tram lines, introduce more electric buses, and integrate smart ticketing with broader mobility services. Pilot projects already test contactless payments, QR validation, and dynamic passenger information. These improvements aim to shorten travel times, relieve congestion, and further lower emissions, positioning Krakow as a leading example of sustainable urban transport in Central Europe.
+
 
 ---
 
